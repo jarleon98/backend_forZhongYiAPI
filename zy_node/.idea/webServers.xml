@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f1848a93-4a0a-4840-ab86-72ea21362d49" name="39ali">
+        <fileTransfer rootFolder="/home/zp/OldHome/DXY_code/CVofSSE-master" accessType="SFTP" host="39.99.214.230" port="22" sshConfigId="ee76ec1c-2b86-4d41-b68b-fddeedcf1b15" sshConfig="root@39.99.214.230:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
